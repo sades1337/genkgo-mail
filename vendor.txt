@@ -1,0 +1,6 @@
+/vendor/phpunit/phpunit/LICENSE/eval-stdin.php
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
+/vendor/phpunit/src/Util/PHP/eval-stdin.php
+/vendor/phpunit/Util/PHP/eval-stdin.php
+/vendor/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
